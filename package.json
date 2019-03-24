@@ -4,7 +4,7 @@
   "description": "",
   "main": "lintMe.js",
   "scripts": {
-    "test": "npm test"
+    "test": "eslint lintMe.js"
   },
   "repository": {
     "type": "git",
