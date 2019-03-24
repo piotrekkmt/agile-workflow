@@ -1,0 +1,22 @@
+{
+  "name": "agile-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lintMe.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrekkmt/agile-workflow.git"
+  },
+  "author": "Peter Poliwoda <contact@peterpoliwoda.me> (http://peterpoliwoda.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrekkmt/agile-workflow/issues"
+  },
+  "homepage": "https://github.com/piotrekkmt/agile-workflow#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
